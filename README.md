@@ -71,9 +71,8 @@ This project is licensed under the MIT License. See the [LICENSE](./LICENSE) fil
 ## **Author**
 Developed and maintained by **NK Chaudhary**.  
 For any questions or suggestions, feel free to connect:
-- Email: [your-email@example.com](mailto:your-email@example.com)
+- Email: [nkpchaudhary13@gmail.com](mailto:nkpchaudhary13@gmail.com)
 - GitHub: [https://github.com/nkchaudhary](https://github.com/nkchaudhary)
-- LinkedIn: [https://linkedin.com/in/nkchaudhary](https://linkedin.com/in/your-profile)
 
 ---
 
